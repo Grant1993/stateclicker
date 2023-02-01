@@ -5,8 +5,7 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <div>
-        <p>text</p>
+      <div className='App'>
         <Clicker />
       </div>
     );
